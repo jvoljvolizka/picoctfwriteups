@@ -1,0 +1,8 @@
+Can you decode the following string dGg0dF93NHNfczFtcEwz from base64 format to ASCII? 
+
+master ? jvol@jvolizka:[~/Hackershit/ctf/picoctf]> echo "dGg0dF93NHNfczFtcEwz" > string
+master ? jvol@jvolizka:[~/Hackershit/ctf/picoctf]> base64 -d string > plain
+master ? jvol@jvolizka:[~/Hackershit/ctf/picoctf]> cat plain
+
+th4t_w4s_s1mpL3
+picoCTF{th4t_w4s_s1mpL3}

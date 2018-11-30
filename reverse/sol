@@ -1,0 +1,9 @@
+Throughout your journey you will have to run many programs. Can you navigate to /problems/reversing-warmup-1_0_f99f89de33522c93964bdec49fb2b838 on the shell server and run this program to retreive the flag?
+
+site ustunden shelle girip uygulamayi calistirinca flag geliyor
+
+yada sadece dosyayı indirip calistirmak da yeterli 
+
+master ? jvol@jvolizka:[~/Hackershit/ctf/picoctf/reverse]> chmod 777 run 
+master ? jvol@jvolizka:[~/Hackershit/ctf/picoctf/reverse]> ./run 
+picoCTF{welc0m3_t0_r3VeRs1nG}
